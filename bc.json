@@ -1,7 +1,7 @@
 ﻿// 配置地址 --> clan://localhost/TVBox/bc.json?download=false
 
 {
-"spider":"https://ccc925.coding.net/p/mmm/d/MMM/git/raw/main/JAR/0625.jar?download=false",
+"spider":"https://ccc925.coding.net/p/mmm/d/MMM/git/raw/main/JAR/0627.jar?download=false",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
 
 
